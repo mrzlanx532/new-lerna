@@ -11,6 +11,10 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzlanx532/new-lerna.git"
+  },
   "files": [
     "dist"
   ],
