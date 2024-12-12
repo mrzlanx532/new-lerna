@@ -1,6 +1,14 @@
 {
   "name": "@mrzlanx532/lerna-new",
+  "version": "1.0.0",
+  "description": "Тестовый пакет",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzlanx532/new-lerna.git"
+  },
+  "author": "me",
+  "license": "MIT",
   "workspaces": [
     "packages/*"
   ],
